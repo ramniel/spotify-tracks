@@ -1,0 +1,14 @@
+{
+  "authUrl": "https://accounts.spotify.com",
+  "apiUrl": "https://api.spotify.com/v1",
+  "clientId": "c4653644ceea4c54822f8a6ed6034ef9",
+  "redirectUri": "http://localhost:3000/callback/",
+  "scopes": [
+    "playlist-read-private",
+    "playlist-read-collaborative",
+    "user-read-recently-played",
+    "user-library-read",
+    "user-read-private",
+    "user-top-read"
+  ]
+}
